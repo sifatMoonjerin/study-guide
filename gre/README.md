@@ -1,5 +1,5 @@
 # GRE ESSENTIALS
-Preparing for the GRE can be extremely stressful. Especially if you do not know what to do. Following a study plan will make it a bit easier. During my preparation, I had followed the [Two Month Study](https://www.gregmat.com/study-plans/two-months-study-plan/) by GregMat. It is a comprehensive study plan which covers almost everything that you need to ace your GRE. However, if you are unwilling to get a paid subscription, you can follow these guides. I have organized the essential tips and strategies from free resources available on the internet (GregMat's free contents cover most of it). 
+Preparing for the GRE can be extremely stressful. Especially if you do not know what to do. Following a study plan will make it a bit easier. During my preparation, I had followed the [Two Month Study](https://www.gregmat.com/study-plans/two-months-study-plan/) by GregMat and scored **330 (V: 161, Q:169, AWA: 4.0)**. It is a comprehensive study plan which covers almost everything that you need to ace your GRE. However, if you are unwilling to get a paid subscription, you can follow these guides. I have organized the essential tips and strategies from free resources available on the internet (GregMat's free contents cover most of it). 
 
 ## KNOW THE THREE-HEADED BEAST
 First, you need to get familiar with GRE. The following videos cover the test structure, adaptive scoring algorithm, and the materials you should use.
@@ -13,11 +13,13 @@ Before going any further, you should go through the [ETS Math Review](https://ww
 
 ## THE THREE HEADS OF THE BEAST
 1. [Verbal reasoning](#verbal-reasoning)
-2. [Quantitative reasoning](#quantitative-reasoning)
     1. [Words! Words!! Words!!!](#words)
     2. [Reading comprehension](#reading-comprehension)
     3. [Text completion](#text-completion)
     4. [Sentence equivalence](#sentence-equivalence)
+2. [Quantitative reasoning](#quantitative-reasoning)
+    1. [Strategies](#strategies)
+    2. [Things to memorize](#things-to-memorize)
 3. [Analytical writing](#analytical-writing)
 
 ## VERBAL REASONING
@@ -91,11 +93,27 @@ Question types:
 2. Multiple choice
 3. Numeric entry
 
-Strategies:
+### Strategies
 * [Choosing numbers](https://www.youtube.com/watch?v=2SctYMqdwkM)
 * [Periodically stop](https://www.youtube.com/watch?v=9rw2pDec-aU)
 * [Backsolving](https://www.youtube.com/watch?v=_iTysIZ3xUI)
 * [Easy is hard, hard is easy](https://www.youtube.com/watch?v=GMYf0CojvVU)
+
+### Things to memorize
+* Primes between 1 - 100:
+    ```
+     2  3  5  7 11
+    13 17 19 23 29
+    31 37 41 43 47
+    53 59 61 67 71
+    73 79 83 89 97
+    ```
+* $2^1$ to $2^11$, $3^1$ to $3^6$, $4^1$ to $4^4$, $5^1$ to $5^4$
+* [Divisibility rules](https://www.youtube.com/watch?v=Df9h5t64NlQ)
+* [Pythagorean triplets](https://www.youtube.com/watch?v=F9YtVqyps1s)
+* [45&deg;-45&deg;-90&deg; triangle](https://www.youtube.com/watch?v=nQEqpVK7ZPA)
+* [30&deg;-60&deg;-90&deg; triangle](https://www.youtube.com/watch?v=8N9U8ELNILE)
+
 
 
 ## ANALYTICAL WRITING
